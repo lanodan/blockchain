@@ -15,6 +15,7 @@ This is a (probably hard) fork of dzuk’s controverted blockchain, feel free to
 - Try to give as much information as needed for moderation or general knowlegde, not just out of context quotes
 - Try to be software independent (dzuk is writing it clearly as a mastodon user which didn’t use the fediverse before it existed)
 - Illegal content is illegal depending on your jurisdiction. For example and sorry for this hard one: (Pro-)LGBT stuff is banned in Russia while anti-LGBT stuff is banned in EU/USA.
+- Try to break down by users if the instance is realitively small and there is noteworthy differencies
 
 This will not be neutral, this will be very political, as in: Even my own opinion may not be the best one, do your own choices, this is there for facts and hopefully opinions about them from multiple sides.
 
