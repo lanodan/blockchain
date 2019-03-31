@@ -1,118 +1,41 @@
 # BLOCKchain (not that kind)
 
-The space of decentralised social networking is relatively new territory, and while many of us who would otherwise face abuse on standard centralised social media services are enjoying our new found ability to define our own boundaries, it does not come without new risks and downsides.
+This is a (probably hard) fork of dzuk’s controverted blockchain, feel free to send patches, this one should be much more like a wiki over git than anything.
 
-While many of us came to Mastodon to set up more egalitarian social networks, there are also other people who are setting up their own spaces to spew hate and abuse.
+## Documents
+- [full list of instances](list/list.md)
+- [deleted instances](info/deleted_instances.md)
 
-<br/>
+## Tools
+- https://instances.social/ : Where you can get the description and basic moderation policy when filled in by admins (opt-in, registeration, limited to mastodon-compatible)
+- https://fediverse.network/ : Where you can get an instance metadata (pleroma is transparent on policies by default)
 
-The recent turmoils of our traditional social networks and the wider internet have revealed to many the internet is not a neutral space. It is not something that automatically produces prosperous outcomes. We have to shape our technology to create the spaces and the kind of internet we want to see in our daily lives.
+## Goals
+- Get a list with the most of information about instances, while avoiding the “throw in there everything the author does not like” as much as possible.
+- Try to give as much information as needed for moderation or general knowlegde, not just out of context quotes
+- Try to be software independent (dzuk is writing it clearly as a mastodon user which didn’t use the fediverse before it existed)
+- Illegal content is illegal depending on your jurisdiction. For example and sorry for this hard one: (Pro-)LGBT stuff is banned in Russia while anti-LGBT stuff is banned in EU/USA.
 
-<br/>
+This will not be neutral, this will be very political, as in: Even my own opinion may not be the best one, do your own choices, this is there for facts and hopefully opinions about them from multiple sides.
 
-BLOCKchain aims to address the unique issues presented by federated social networking by giving instances tools to understand, identify and push out hate and other social media threats through research and exposition.
+If you have any doubts about an instance, *try to reach out before doing heavy actions such as blocking*, **please**.
 
----
-
-## Why blocklist?
-
-In short...
-
-- You want to keep illegal content (eg. child porn) off your servers.
-- You want to promote healthy discussion and interactions between people that isn't poisoned by shitty, violent ideologies and dangerous conspiracy theories.
-- You want your users to enjoy your instance and not have to worry about being harrassed or have shit flinged at them from people who don't know better.
-- You want to defend the freedom of people to choose their pronouns, what religion they practice, how they want to represent themselves, who they want to have sex with, etc. etc. and to defend the right of these people to speak without fear of inane, hateful speech.
-- You don't want to allow cults and hate groups to recruit vulnerable people.
-
-Think of it as a spam filter for harassment, hate and common kinds of illegal content.
-
-This blocklist isn't prescriptive too. Feel free to examine the reasons and each instance to see what action is right for you.
-
-Don't know how to identify hate speech? Don't worry! I've included links to many reputable resources that can help you understand in this readme.
-
----
-
-
-## The List
-
-**BLOCKchain is currently quite a fragmented project, in need of restructuring.**
-
-**It's currently divided into two parts:**
-
-#### New (this GitHub)
-
-[**You can find the new list here.**](list/list.md)
-
-[**Here's a companion JSON list for automating.**](list/json-list.md)
-
-A more convenient list with linked summaries breaking down examples of hateful discourse within the listed instances when it occurs. Also has a better, tighter editorial style. **This is in development and not complete.** When it is finished, it will be replacing the old one.
-
-
-#### Old
-[**You can find the old list here.**](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23)
-
-This is the original page for the blocklist. **Contains various examples and evidence the new list is still missing.**
-
----
-
-## Updates
-
-You can follow [@blockchain@monsterpit.net](https://monsterpit.net/@blockchain) for updates.
-
-
----
+## Non-Goals
+- Any kind of automated blocking list, automate your software to block/replace words or warn moderators
+- Any kind of information that you can already find publicly via their info pages or with the previously mentionned Tools.
+- Legal advice for your own jurisdiction
 
 ## Contributions
 
-Feel free to contribute on Mastodon via [@blockchain@monsterpit.net](https://monsterpit.net/@blockchain).
+Feel free to contribute by:
+- email: `contact+github-blockchain@hacktivis.me`
+- fediverse: `lanodan@queer.hacktivis.me`
+- Github PRs
 
 Unless it's really obvious how bad an instance is by looking at their front page, it's important that you bring evidence. Links are especially preferred becuase it means I can verify, archive and screencap them myself.
 
+#### Authors
 
-#### Contributors (thanks!):
-
-- @rummik
-
----
-
-## Issues?
-
-I was accepting issues on this GitHub, but there were too many people who either didn't care about why they were blocklisted and just wanted to poison the atmosphere or who weren't willing to actually directly address why they were blocked in the first place and I don't really have the time or energy to deal with that.
-
-I've made various FAQs in the resources section (further down this page) while back that tries to address some of the common issues some people have with blocklists. It doesn't necessarily cover everything, but it might help.
-
-
----
-
-## Other Info
-
-[**FAQ about BLOCKchain**](info/faq.md)
-
-[**FAQ about blocklisting in general**](http://telegra.ph/MastodonOStatus-Instance-Blocking-FAQ-06-24)
-
-[**About deleted instances**](info/deleted_instances.md)
-
-
-### Thoughts on stuff
-
-[**Blocklisting and the philosophies of free information**](info/information_freedom.md)
-
----
-
-
-## Resources
-
-Wanna learn about hate speech?  
-**[Check out the resources page!](resources/resources.md)**
-
-Want to find tools to help you deal with this shit elsewhere on the internet?  
-**[Check out the internet tools page!](resources/internet_tools.md)**
-
----
-
-
-## Other Links
-
-#### [Compassion Online](https://compassion.online)
-
-Another blocklist that also contains a list of recommended instances.
+- @dzuk-mutant@github.com (the one who started the original one)
+- @rummik@github.com
+- Haelwenn (lanodan) Monnier https://hacktivis.me/ (the one who forked it)
