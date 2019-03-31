@@ -1,40 +1,25 @@
-# The New List
+# The List
 
-This new list breaks off the instances of abuse, hate, etc. that an instance may into it's own file, making for much more convenient browsing (and making it much easier for me to update).
+This list breaks out by what you may want to block (URLs, words, instance, user).
 
 Eventually, the goal is to get most instances their own file, and content will be built up as time goes on.
 
-For now, if you still want the most detail, you should look at [The Old List](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23).
-
 Some are repeated in this list multiple times because they are in different categories.
 
-Some of these instances don't exist anymore, but will be staying on for future reference for a variety of factors. [Learn more about how dead instances are handled here.](../info/deleted_instances.md)
-
-
-## Important notice!
-
-**All of the instance links in this document are to other documents in this GitHub detailing the evidence about that instance. They do not go to the instances themselves.**
-
-**Unfortunately evidence links are automatically hyperlinked in GitHub, and I shall try to circumvent that in due course, so avoid clicking on those unless you actually want to.**
-
-**Any content or topics beyond this point may be of a distressing nature. If you're not in the mood to experience that right now, I recommend coming back later.**
-
-----
+## Link policy
+- All the links on this document go to the details of the instance
+- All the links in the details of an instance go to the archived version for source verification and allowing to look for more information if needed
+- Warnings about the content of links will try to be done but as on the wild internet, still exercice a bit of caution
 
 ## Security/privacy risks
 
-These instances have something in them that compromises the privacy/broadcast levels of posts.
+Theses instances do not choose to follow the recommended way of using ActivityPub fields used for addressing:
 
-* [**pleroma.rareome.ga**](instances/pleroma_rareome_ga/pleroma_rareome_ga.md)
-
-
-----
+* [**pleroma.rareome.ga**](instances/pleroma_rareome_ga/pleroma_rareome_ga.md) [OFFLINE]
 
 ## Harassment / direct abuse to other people
 
 These instances have harassed users of other instances or generally acted abusively towards them.
-
-##### Instances
 
 * [**2hu.club**](instances/2hu_club/2hu_club.md)
 * [**ap.uwu.st**](instances/ap_uwu_st/ap_uwu_st.md)
@@ -50,26 +35,37 @@ These instances have harassed users of other instances or generally acted abusiv
 * [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
 * [**vampire.estate**](instances/vampire_estate/vampire_estate.md)
 * [**youkai.town**](instances/youkai_town/youkai_town.md)
+* **noagenda.social** [OFFLINE]
+* [**sunshinegardens.org**](instances/sunshinegardens_org/sunshinegardens_org.md) [Moved to: [social.sunshinegardens.org](instances/social_sunshinegardens_org/social_sunshinegardens_org.md)]
+* [**yiff.rocks**](instances/yiff_rocks/yiff_rocks.md) [OFFLINE]
 
-
-##### No longer exists
-
-* **noagenda.social** [no longer exists]
-* [**sunshinegardens.org**](instances/sunshinegardens_org/sunshinegardens_org.md) [now [social.sunshinegardens.org](instances/social_sunshinegardens_org/social_sunshinegardens_org.md)]
-* [**yiff.rocks**](instances/yiff_rocks/yiff_rocks.md) [no longer exists]
-
-
-----
+## Discourse heaven/Callouts zones
+- 
 
 ## Spam
+- `://womenarestupid.site/`, `WomenAreStupid`: Self-explainatory, it’s a (joke?) website containing hate against womens. Uses the federated timeline as a base, creates accounts on a bunch of instances.
+- `://levmblog.blogspot.com`: Looks like promotional spam, mentions you, probably uses the federated timeline as a base.
+- **2.distsn.org** [OFFLINE]
 
-#### Instances
+## Contact-less instances
+This includes any of the instances where you have no reachable admin contact (either one or a list) be it via their instance protocol or via another mean (ie. email).
 
-- **2.distsn.org**
+### No other means
+- `arkham.cafe`
+
+## Enbyphobia
+Enbyphobia is hate against non-binary people, this may include:
+- actively not recognising it as being part of the gender spectrum
+- actively doing general harm against non-binary people (because of this identity)
+
+- `arkham.cafe`
+- `ltch.fr`
+
+## ⚠ to be cleaned ⚠
+
+This list is way to broad, seriously.
 
 ---
-
-## Violent speech spaces
 
 These instances often advertise themselves as having laissez-faire moderation or as 'not a safe space', what they really mean is that they are a safe space for a variety of violent and/or hateful speech, ideologies and shitty actions, including (but not limited to):
 
