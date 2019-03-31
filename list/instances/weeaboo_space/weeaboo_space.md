@@ -1,12 +1,6 @@
 # weeaboo.space
 
-***Last updated: 2018.07.11***
-
-**This instance domain is not a typo. It has 2 'e's.**
-
-This instance contains antisemitic references, hate slurs, lolicion (from user @taiz), lolicon memes and fascist apologism.
-
-The rules and the admin's conduct confirm that this kind of behaviour is okay in this instance.
+This is your typical anime-watching community which sometimes has edgy/questionnable jokes/takes.
 
 ### rules snippet
 
@@ -23,21 +17,20 @@ The rules and the admin's conduct confirm that this kind of behaviour is okay in
 
 ![](unknown1.png)
 
-(Link not acquired, but it comes from a reputable source)
-
-'get enough ovens running'
+<https://weeaboo.space/notice/831394>
 
 ### example 3
 
 ![](unknown2.png)
 
-(It's a reply so it didn't have it's own URL)
+<https://weeaboo.space/notice/823389>
 
 ### example 4
 
 ![](831394.png)
 
 (https://weeaboo.space/notice/831394)
+Which seems to be a loose quote from kaniini@pleroma.site: <https://pleroma.site/objects/05b768ce-fdaf-41c0-a804-29e65332784c>
 
 
 ### example 5
