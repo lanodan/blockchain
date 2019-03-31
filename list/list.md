@@ -17,6 +17,29 @@ Theses instances do not choose to follow the recommended way of using ActivityPu
 
 * [**pleroma.rareome.ga**](instances/pleroma_rareome_ga/pleroma_rareome_ga.md) [OFFLINE]
 
+## Discourse heaven/Callouts zones
+
+## Spam
+- `://womenarestupid.site/`, `WomenAreStupid`: Self-explainatory, it’s a (joke?) website containing hate against womens. Uses the federated timeline as a base, creates accounts on a bunch of instances.
+- `://levmblog.blogspot.com`: Looks like promotional spam, mentions you, probably uses the federated timeline as a base.
+- **2.distsn.org** [OFFLINE]
+
+## Contact-less instances
+This includes any of the instances where you have no reachable admin contact (either one or a list) be it via their instance protocol or via another mean (ie. email).
+
+### No other means
+- `arkham.cafe`
+
+## Enbyphobia
+Enbyphobia is hate against non-binary people, this may include:
+- actively not recognising it as being part of the gender spectrum
+- actively doing general harm against non-binary people (because of this identity)
+
+- `arkham.cafe`
+- `ltch.fr`
+
+## ⚠ to be cleaned ⚠
+
 ## Harassment / direct abuse to other people
 
 These instances have harassed users of other instances or generally acted abusively towards them.
@@ -39,29 +62,6 @@ These instances have harassed users of other instances or generally acted abusiv
 * [**sunshinegardens.org**](instances/sunshinegardens_org/sunshinegardens_org.md) [Moved to: [social.sunshinegardens.org](instances/social_sunshinegardens_org/social_sunshinegardens_org.md)]
 * [**yiff.rocks**](instances/yiff_rocks/yiff_rocks.md) [OFFLINE]
 
-## Discourse heaven/Callouts zones
-- 
-
-## Spam
-- `://womenarestupid.site/`, `WomenAreStupid`: Self-explainatory, it’s a (joke?) website containing hate against womens. Uses the federated timeline as a base, creates accounts on a bunch of instances.
-- `://levmblog.blogspot.com`: Looks like promotional spam, mentions you, probably uses the federated timeline as a base.
-- **2.distsn.org** [OFFLINE]
-
-## Contact-less instances
-This includes any of the instances where you have no reachable admin contact (either one or a list) be it via their instance protocol or via another mean (ie. email).
-
-### No other means
-- `arkham.cafe`
-
-## Enbyphobia
-Enbyphobia is hate against non-binary people, this may include:
-- actively not recognising it as being part of the gender spectrum
-- actively doing general harm against non-binary people (because of this identity)
-
-- `arkham.cafe`
-- `ltch.fr`
-
-## ⚠ to be cleaned ⚠
 
 This list is way to broad, seriously.
 
