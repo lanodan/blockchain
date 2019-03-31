@@ -22,6 +22,7 @@ Theses instances do not choose to follow the recommended way of using ActivityPu
 ## Spam
 - `://womenarestupid.site/`, `WomenAreStupid`: Self-explainatory, it’s a (joke?) website containing hate against womens. Uses the federated timeline as a base, creates accounts on a bunch of instances.
 - `://levmblog.blogspot.com`: Looks like promotional spam, mentions you, probably uses the federated timeline as a base.
+- [neo.hongeipii.com](instances/neo.hongeipii.com/index.md): Spam generator, probably offline now
 - **2.distsn.org** [OFFLINE]
 
 ## Contact-less instances
